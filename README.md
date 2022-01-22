@@ -1,5 +1,5 @@
 ### Hi there I'm *Rohan* 👋
-#### I write software and do DevOps-y stuff
+#### I write _sometimes_ software and do DevOps-y stuff
 ---
 
 #### About Me
@@ -7,7 +7,8 @@
 - I'm looking for a job that challenges me and helps me grow! If you have something interesting cooking, Hit me up!
 - 🌱 ~I’m currently learning Go~ Rust it is!
 - 📫 email me at rohan@crazydeveloper.fail 
-  or visit me [on the web!](https://rmishra.me)
+- 🌐️ or visit me [on the web!](https://rmishra.me)
+- Find me on [Linkedin as rohmishra](https://www.linkedin.com/in/rohmishra)
 - btw, I use arch!
 ---
 Hit me on twitter [@roh_mish](https://twitter.com/Roh_Mish) or on instagram [_framedlife](https://www.instagram.com/_framedlife)
