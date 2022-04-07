@@ -1,5 +1,5 @@
 ### Hi there I'm *Rohan* 👋
-#### I write _sometimes_ software and do DevOps-y stuff
+#### I _sometimes_ write software and do DevOps-y stuff
 ---
 
 #### About Me
