@@ -13,7 +13,7 @@
 - 📫 email me at [rohan@rmishra.me](mailto://rohan@rmishra.me) 
 - 🌐️ or visit me [on the web!](https://rmishra.me)
 - Find me on [Linkedin as rohmishra](https://www.linkedin.com/in/rohmishra)
-- btw, I use arch!
+- btw, I use Arch!
 - Operatons Analyst! Looking for a chang. If you or someone who you know is looking for someone with Platform Engineering experience, feel free to reach out! 
 ---
-Hit me on mastodon [@rohmishra](https://noc.social/@rohmishra), twitter [@roh_mish](https://twitter.com/Roh_Mish) or on instagram [@_framedlife](https://www.instagram.com/_framedlife).
+You can reach out to me on mastodon [@rohmishra](https://noc.social/@rohmishra), twitter [@roh_mish](https://twitter.com/Roh_Mish) or on instagram/threads [@_framedlife](https://www.instagram.com/_framedlife).
