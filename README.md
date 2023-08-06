@@ -7,7 +7,8 @@
 - I'm looking for a job that challenges me and helps me grow! If you have something interesting cooking, Hit me up!
 - 🪙 I love coin collecting, if you have something unique to show off - you know what to do.
 - 🚋 I prefer public transit over cars and am car-free.
-- 🎮 Currently playing: Horizon Zero Dawn on ⌨️.
+- 🎮 Currently (re)playing: Assasin's Creed III (Remastered) on my Deck.
+- Add [matorone on steam](https://steamcommunity.com/id/Matorone/)!
 - 🌱 ~I’m currently learning Go~ Rust it is!
 - Currently learning : 🇪🇸 Spanish, 🇫🇷 French, 🇩🇪 German
 - 📫 email me at [rohan@rmishra.me](mailto://rohan@rmishra.me) 
