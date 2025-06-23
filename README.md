@@ -7,9 +7,9 @@
 - I'm looking for a job that challenges me and helps me grow! If you have something interesting cooking, Hit me up!
 - 🪙 I love coin collecting, if you have something unique to show off - you know what to do.
 - 🚋 I prefer public transit over cars and am car-free.
-- 🎮 Currently (re)playing: Assasin's Creed III (Remastered) on my Deck.
+- 🎮 Currently (re)playing: Control (Ultimate edition) on my Deck.
 - Add [matorone on steam](https://steamcommunity.com/id/Matorone/)!
-- 🌱 ~I’m currently learning Go~ Rust it is!
+- 🌱 I’m currently experimenting with Go. (the word Coroutines sound fancy)
 - Currently learning : 🇪🇸 Spanish, 🇫🇷 French, 🇩🇪 German
 - 📫 email me at [rohan@rmishra.me](mailto://rohan@rmishra.me) 
 - 🌐️ or visit me [on the web!](https://rmishra.me)
@@ -17,3 +17,4 @@
 - Operatons Analyst! Looking for a change. If you or someone who you know is looking for someone with Platform Engineering or Web Development experience, feel free to reach out! 
 ---
 You can reach out to me on mastodon [@rohmishra](https://noc.social/@rohmishra), twitter [@roh_mish](https://twitter.com/Roh_Mish) or on instagram/threads [@_framedlife](https://www.instagram.com/_framedlife).
+
